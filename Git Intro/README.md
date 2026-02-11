@@ -3,7 +3,7 @@ This project will guide you through some of the more common features of Git that
 
 ## Forking the Intro Project Repository and Cloning it Down Locally
 
-1. Visit https://github.com/DylanHuynh/sp23-plextech-fswd-intro-projects
+1. Visit https://github.com/som1shi/sp26-plextech-fswd-intro-projects
 2. On the main page, click the fork button on the upper right hand corner that should take you to the "Create a new fork" page
 3. Make sure the Owner is your Github account and then click the green "Create fork" icon
 4. Navigate back to the main page oF YOUR NEW FORKED REPOSITORY and click the green "<> Code" icon
@@ -37,7 +37,7 @@ A "commit" is a list of changes that is stored by git. Committing only affects y
 3. Type `git commit -m "image added"` to commit your change.
 4. Type `git push origin main` to push your changes to the main branch.
 
-Now when you navigate to the repository on your Github, you should see all the starter code along with your screenshot in the "Git Intro" project folder. If your friend wanted to work with you on a project (like a [group project](https://github.com/ivanm0/fa22-plextech-fswd-group-projects)), they would need to `git pull` the changes whenever you update the repository on your end to avoid any major merge conflicts.
+Now when you navigate to the repository on your Github, you should see all the starter code along with your screenshot in the "Git Intro" project folder. If your friend wanted to work with you on a project (like a [group project](https://github.com/som1shi/sp26-plextech-fswd-intro-projects)), they would need to `git pull` the changes whenever you update the repository on your end to avoid any major merge conflicts.
 
 ### PART 2 - Person A ONLY
 
